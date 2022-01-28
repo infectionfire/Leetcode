@@ -1,5 +1,3 @@
-import static java.lang.Character.toLowerCase;
-
 class LongestCommonPrefix {
 
     public static void main(String[] args) {
